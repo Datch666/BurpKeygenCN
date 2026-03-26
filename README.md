@@ -60,7 +60,7 @@ Agent 参数（逗号分隔）：
 
 ## 设置截图
 
-![setting](img\setting.png)
+![设置截图](img/setting.png)
 
 ## 选项说明
 
