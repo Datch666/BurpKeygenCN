@@ -1,6 +1,5 @@
-Version=1.6.2
-Download=https://gh0x0.111232.xyz/https://github.com/Datch666/BurpKeygenCN/releases/download/1.6.2/BurpKeygenCN.jar
+Version=1.6.3
+Download=https://gh0x0.111232.xyz/https://github.com/Datch666/BurpKeygenCN/releases/download/1.6.3/BurpKeygenCN.jar
 Changelog={
-修复已知问题，优化代码性能
-
-提示：建议更新}
+修改汉化输出逻辑，新增部分汉化内容
+}
