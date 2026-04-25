@@ -1,8 +1,6 @@
-Version=1.6.7
-Download=https://gh0x0.111232.xyz/https://github.com/Datch666/BurpKeygenCN/releases/download/1.6.7/BurpKeygenCN.jar
+Version=1.6.8
+Download=https://gh0x0.111232.xyz/https://github.com/Datch666/BurpKeygenCN/releases/download/1.6.8/BurpKeygenCN.jar
 Changelog={
-1.适配2026.4版本页面
-2.对授权标题进行优化
-3.修复了一些已知BUG
+适配burpsuite v2026.4版本
 项目交流微信：Datch123
 }
