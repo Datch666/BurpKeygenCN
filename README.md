@@ -118,15 +118,16 @@ Regex Pattern(.*)[Tab]正则替换$1
 
 | 文件 | 说明 |
 |------|------|
-| `agent_log.txt` | Agent 启动日志（JVM 信息、Transformer 注册） |
-| `unTranslate.txt` | 未匹配到翻译的英文字符串（方便补充翻译） |
-| `whitelist.txt` | 命中白名单的字符串记录 |
-| `translated.txt` | 翻译成功的对照记录 |
-| `translator_error.txt` | 翻译引擎错误日志 |
-| `transformer_error.txt` | 字节码转换错误日志 |
-| `charset_fix.txt` | 中文乱码修复日志 |
-| `burp_out.txt` / `burp_err.txt` | Burp 进程 stdout/stderr 输出 |
-| `last_run_cmd.txt` | 最后一次执行的启动命令 |
+| `Agent日志.log`                         | Agent 启动日志（JVM 信息、Transformer 注册） |
+| --------------------------------------- | -------------------------------------------- |
+| `未汉化文本.log`                        | 未匹配到翻译的英文字符串（方便补充翻译）     |
+| `汉化白名单命中.log`                    | 命中白名单的字符串记录                       |
+| `汉化成功文本.log`                      | 翻译成功的对照记录                           |
+| `汉化异常.log`                          | 翻译引擎错误日志                             |
+| `字节码注入错误.log`                    | 字节码转换错误日志                           |
+| `乱码修复日志.log`                      | 中文乱码修复日志                             |
+| `Burp标准输出.log` / `Burp标准错误.log` | Burp 进程 stdout/stderr 输出                 |
+| `Burp启动命令.log`                      | 最后一次执行的启动命令                       |
 
 ## 版本号命名规则
 
