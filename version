@@ -1,8 +1,6 @@
-Version=1.6.9
-Download=https://gh0x0.111232.xyz/https://github.com/Datch666/BurpKeygenCN/releases/download/1.6.9/BurpKeygenCN.jar
+Version=1.7.0
+Download=https://gh0x0.111232.xyz/https://github.com/Datch666/BurpKeygenCN/releases/download/1.7.0/BurpKeygenCN.jar
 Changelog={
 新增部分汉化
-已经对常用burp进行汉化操作，如：HAE、burp mcp server、Turbo Intruder等
-ps：如果还需要汉化其他插件欢迎github提issue或直接添加项目交流微信
-项目交流微信：Datch123
+修复了一部分汉化错误内容
 }
