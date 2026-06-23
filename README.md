@@ -137,3 +137,6 @@ Regex Pattern(.*)[Tab]正则替换$1
 
 - **JDK 11+**（JDK 16 自动添加 `--illegal-access=permit`，JDK 16+ 自动添加 `--enable-native-access`）
 - 支持 Windows / macOS / Linux
+
+## 捐赠支持
+![捐赠支持](img/pay.png)
