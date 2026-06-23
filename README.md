@@ -8,7 +8,7 @@ Burp Suite 注册机 & 汉化工具
 > 
 > 集成打包版（内置jre环境，解压即用）https://www.52pojie.cn/thread-2005151-1-1.html
 >
-> 项目交流微信：Datch123
+> 技术交流微信：Datch123
 
 ## 功能特性
 
