@@ -1,10 +1,6 @@
-Version=1.7.2
-Download=https://gh0x0.111232.xyz/https://github.com/Datch666/BurpKeygenCN/releases/download/1.7.2/BurpKeygenCN.jar
+Version=1.7.3
+Download=https://gh0x0.111232.xyz/https://github.com/Datch666/BurpKeygenCN/releases/download/1.7.3/BurpKeygenCN.jar
 Changelog={
-修复了已知BUG
-修复了授权对象无法修改的问题
-新增了一些汉化内容
-优化汉化匹配逻辑
-准备修复作者没有女朋友的BUG(帮作者介绍女朋友可加快修复速度)
+优化更新流程
 技术交流微信：Datch123
 }
